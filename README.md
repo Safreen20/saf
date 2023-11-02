@@ -1,3 +1,5 @@
 # saf
 this is my first repo
-thus is my first code line
+this is my first code line
+this is the second line
+more code
